@@ -1,2 +1,3 @@
 # hello_world
-Some random stuff
+
+We come in piece! Piece? No, pace! Fck, not that either..
